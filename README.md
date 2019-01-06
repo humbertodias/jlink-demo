@@ -14,21 +14,9 @@
 
 with Docker
 
-1. Run
-
     make docker-run
 
-2. Compile your *demoModule*
-
-    make javac
-
-3. Create JREs
-
-    make jlink-all
-
-4. Comparing size
-
-    make du
+and execute the previous steps.
 
 
 | JRE                     | Size Mb |
