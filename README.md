@@ -31,13 +31,14 @@ with Docker
     make du
 
 
-| JRE                     | Size |
-| ------------------------|:----:|
-| demojre-min             | 32   |
-| demojre-compress        | 34   |
-| demojre-strip-debug     | 41   |
-| demojre-no-header-files | 46   |
-| demojre-no-man-pages    | 46   |
+| JRE                     | Size Mb |
+| ------------------------|:-------:|
+| demojre-min             | 32      |
+| demojre-compress        | 34      |
+| demojre-strip-debug     | 41      |
+| demojre-no-header-files | 46      |
+| demojre-no-man-pages    | 46      |
+| /opt/jdk-11.0.1         | 290     |
 
 
 # Ref

@@ -50,7 +50,7 @@ jlink:
 	--output $(JLINK_OUTPUT)
 
 du:
-	du -hs demojre-* | sort -h
+	du -hs $$(echo demojre* /opt/jdk-11.0.1) | sort -h
 
 demojre-run:
 	./demojre/bin/java -version
