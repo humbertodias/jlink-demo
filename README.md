@@ -1,5 +1,7 @@
 # jlink-demo
 
+Creating your minified JRE
+
 # Req
 
 * Make
