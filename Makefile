@@ -64,5 +64,5 @@ clean:
 
 docker-run:
 	docker run --rm -ti \
-	-v $(MKFILE_DIR):/tmp \
+	-v $(MKFILE_DIR):/home/java \
 	hldtux/oracle-jdk-11 bash

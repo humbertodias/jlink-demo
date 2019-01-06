@@ -30,8 +30,9 @@ with Docker
 
     make du
 
+
 | JRE                     | Size |
-| --------------------- --|:----:|
+| ------------------------|:----:|
 | demojre-min             | 32   |
 | demojre-compress        | 34   |
 | demojre-strip-debug     | 41   |
